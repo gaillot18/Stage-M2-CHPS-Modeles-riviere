@@ -1,0 +1,10 @@
+*.tar.gz
+.vscode
+.vscode/
+.DS_Store
+*.pyc
+*.tex
+*.csv
+*.bin
+*.o
+*.a
